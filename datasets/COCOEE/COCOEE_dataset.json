@@ -1,0 +1,2028 @@
+{
+    "000000007544_GT": {
+      "name": "000000007544_GT",
+      "original_image_path": "000000007544_GT.png",
+      "mask_path": "000000007544_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a dog sitting on the back of a car in a parking lot",
+      "words": [
+        "dog"
+      ],
+      "selected_points": [
+        [
+          216,
+          293
+        ],
+        [
+          165,
+          292
+        ]
+      ]
+    },
+    "000000009927_GT": {
+      "name": "000000009927_GT",
+      "original_image_path": "000000009927_GT.png",
+      "mask_path": "000000009927_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a dog sitting on the back of a truck",
+      "words": [
+        "dog"
+      ],
+      "selected_points": [
+        [
+          219,
+          285
+        ],
+        [
+          145,
+          286
+        ]
+      ]
+    },
+    "000000012379_GT": {
+      "name": "000000012379_GT",
+      "original_image_path": "000000012379_GT.png",
+      "mask_path": "000000012379_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a dog sticking its head out of a car window",
+      "words": [
+        "dog"
+      ],
+      "selected_points": [
+        [
+          383,
+          314
+        ],
+        [
+          332,
+          427
+        ]
+      ]
+    },
+    "000000024093_GT": {
+      "name": "000000024093_GT",
+      "original_image_path": "000000024093_GT.png",
+      "mask_path": "000000024093_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a chair and a desk with a computer on top of it",
+      "words": [
+        "chair"
+      ],
+      "selected_points": [
+        [
+          229,
+          354
+        ],
+        [
+          492,
+          369
+        ]
+      ]
+    },
+    "000000030083_GT": {
+      "name": "000000030083_GT",
+      "original_image_path": "000000030083_GT.png",
+      "mask_path": "000000030083_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a group of people standing around a living room holding nintendo wii game controllers",
+      "words": [
+        "people"
+      ],
+      "selected_points": [
+        [
+          401,
+          398
+        ],
+        [
+          440,
+          398
+        ]
+      ]
+    },
+    "000000036603_GT": {
+      "name": "000000036603_GT",
+      "original_image_path": "000000036603_GT.png",
+      "mask_path": "000000036603_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a seagull flying over a body of water",
+      "words": [
+        "seagull"
+      ],
+      "selected_points": [
+        [
+          308,
+          299
+        ],
+        [
+          88,
+          299
+        ]
+      ]
+    },
+    "000000036789_GT": {
+      "name": "000000036789_GT",
+      "original_image_path": "000000036789_GT.png",
+      "mask_path": "000000036789_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a pheasant walking on the side of the road",
+      "words": [
+        "pheasant"
+      ],
+      "selected_points": [
+        [
+          174,
+          291
+        ],
+        [
+          23,
+          291
+        ]
+      ]
+    },
+    "000000038579_GT": {
+      "name": "000000038579_GT",
+      "original_image_path": "000000038579_GT.png",
+      "mask_path": "000000038579_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a group of birds standing on top of a lush green field",
+      "words": [
+        "birds"
+      ],
+      "selected_points": [
+        [
+          226,
+          192
+        ],
+        [
+          56,
+          192
+        ]
+      ]
+    },
+    "000000038916_GT": {
+      "name": "000000038916_GT",
+      "original_image_path": "000000038916_GT.png",
+      "mask_path": "000000038916_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a small bird standing on top of a dirt field",
+      "words": [
+        "bird"
+      ],
+      "selected_points": [
+        [
+          282,
+          202
+        ],
+        [
+          46,
+          202
+        ]
+      ]
+    },
+    "000000041129_GT": {
+      "name": "000000041129_GT",
+      "original_image_path": "000000041129_GT.png",
+      "mask_path": "000000041129_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a large bird flying through a blue sky",
+      "words": [
+        "bird"
+      ],
+      "selected_points": [
+        [
+          330,
+          277
+        ],
+        [
+          409,
+          277
+        ]
+      ]
+    },
+    "000000051987_GT": {
+      "name": "000000051987_GT",
+      "original_image_path": "000000051987_GT.png",
+      "mask_path": "000000051987_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a cat sitting on the floor looking up",
+      "words": [
+        "cat"
+      ],
+      "selected_points": [
+        [
+          247,
+          440
+        ],
+        [
+          193,
+          443
+        ]
+      ]
+    },
+    "000000056857_GT": {
+      "name": "000000056857_GT",
+      "original_image_path": "000000056857_GT.png",
+      "mask_path": "000000056857_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a black horse standing on top of a dirt field",
+      "words": [
+        "horse"
+      ],
+      "selected_points": [
+        [
+          168,
+          321
+        ],
+        [
+          117,
+          321
+        ]
+      ]
+    },
+    "000000059513_GT": {
+      "name": "000000059513_GT",
+      "original_image_path": "000000059513_GT.png",
+      "mask_path": "000000059513_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a couple of brown horses standing on top of a lush green field",
+      "words": [
+        "horses"
+      ],
+      "selected_points": [
+        [
+          141,
+          285
+        ],
+        [
+          64,
+          282
+        ]
+      ]
+    },
+    "000000061097_GT": {
+      "name": "000000061097_GT",
+      "original_image_path": "000000061097_GT.png",
+      "mask_path": "000000061097_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a baby sheep standing next to an adult sheep",
+      "words": [
+        "adult",
+        "sheep"
+      ],
+      "selected_points": [
+        [
+          245,
+          315
+        ],
+        [
+          29,
+          315
+        ]
+      ]
+    },
+    "000000063303_GT": {
+      "name": "000000063303_GT",
+      "original_image_path": "000000063303_GT.png",
+      "mask_path": "000000063303_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a white sheep standing on top of a lush green field",
+      "words": [
+        "sheep"
+      ],
+      "selected_points": [
+        [
+          237,
+          157
+        ],
+        [
+          33,
+          180
+        ]
+      ]
+    },
+    "000000069981_GT": {
+      "name": "000000069981_GT",
+      "original_image_path": "000000069981_GT.png",
+      "mask_path": "000000069981_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a cow and a calf standing in a field",
+      "words": [
+        "calf"
+      ],
+      "selected_points": [
+        [
+          145,
+          288
+        ],
+        [
+          64,
+          299
+        ]
+      ]
+    },
+    "000000070279_GT": {
+      "name": "000000070279_GT",
+      "original_image_path": "000000070279_GT.png",
+      "mask_path": "000000070279_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a cow standing in front of a blue and white building",
+      "words": [
+        "cow"
+      ],
+      "selected_points": [
+        [
+          279,
+          463
+        ],
+        [
+          62,
+          463
+        ]
+      ]
+    },
+    "000000070672_GT": {
+      "name": "000000070672_GT",
+      "original_image_path": "000000070672_GT.png",
+      "mask_path": "000000070672_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a herd of cattle grazing on a lush green field",
+      "words": [
+        "cattle"
+      ],
+      "selected_points": [
+        [
+          487,
+          261
+        ],
+        [
+          292,
+          321
+        ]
+      ]
+    },
+    "000000089064_GT": {
+      "name": "000000089064_GT",
+      "original_image_path": "000000089064_GT.png",
+      "mask_path": "000000089064_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a man sitting at a table with a bowl of food and bottle",
+      "words": [
+        "bottle"
+      ],
+      "selected_points": [
+        [
+          450,
+          488
+        ],
+        [
+          314,
+          487
+        ]
+      ]
+    },
+    "000000099269_GT": {
+      "name": "000000099269_GT",
+      "original_image_path": "000000099269_GT.png",
+      "mask_path": "000000099269_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a cat sitting on a couch in a living room with remote",
+      "words": [
+        "remote"
+      ],
+      "selected_points": [
+        [
+          112,
+          370
+        ],
+        [
+          87,
+          420
+        ]
+      ]
+    },
+    "000000100218_GT": {
+      "name": "000000100218_GT",
+      "original_image_path": "000000100218_GT.png",
+      "mask_path": "000000100218_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a living room filled with lots of furniture and a chair",
+      "words": [
+        "chair"
+      ],
+      "selected_points": [
+        [
+          250,
+          369
+        ],
+        [
+          311,
+          368
+        ]
+      ]
+    },
+    "000000111317_GT": {
+      "name": "000000111317_GT",
+      "original_image_path": "000000111317_GT.png",
+      "mask_path": "000000111317_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a modern kitchen with a white counter top and lamp",
+      "words": [
+        "lamp"
+      ],
+      "selected_points": [
+        [
+          162,
+          80
+        ],
+        [
+          200,
+          80
+        ]
+      ]
+    },
+    "000000111930_GT": {
+      "name": "000000111930_GT",
+      "original_image_path": "000000111930_GT.png",
+      "mask_path": "000000111930_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a living room with a couch and a television and a pillow",
+      "words": [
+        "pillow"
+      ],
+      "selected_points": [
+        [
+          295,
+          397
+        ],
+        [
+          354,
+          494
+        ]
+      ]
+    },
+    "000000139801_GT": {
+      "name": "000000139801_GT",
+      "original_image_path": "000000139801_GT.png",
+      "mask_path": "000000139801_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a city street filled with lots of traffic and a taxi",
+      "words": [
+        "taxi"
+      ],
+      "selected_points": [
+        [
+          66,
+          420
+        ],
+        [
+          65,
+          443
+        ]
+      ]
+    },
+    "000000159250_GT": {
+      "name": "000000159250_GT",
+      "original_image_path": "000000159250_GT.png",
+      "mask_path": "000000159250_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a large jetliner sitting on top of an airport runway",
+      "words": [
+        "jetliner"
+      ],
+      "selected_points": [
+        [
+          149,
+          333
+        ],
+        [
+          148,
+          115
+        ]
+      ]
+    },
+    "000000159265_GT": {
+      "name": "000000159265_GT",
+      "original_image_path": "000000159265_GT.png",
+      "mask_path": "000000159265_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a large jetliner flying through a cloudy blue sky",
+      "words": [
+        "jetliner"
+      ],
+      "selected_points": [
+        [
+          370,
+          244
+        ],
+        [
+          250,
+          244
+        ]
+      ]
+    },
+    "000000160145_GT": {
+      "name": "000000160145_GT",
+      "original_image_path": "000000160145_GT.png",
+      "mask_path": "000000160145_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a large jetliner flying through a gray sky",
+      "words": [
+        "jetliner"
+      ],
+      "selected_points": [
+        [
+          433,
+          241
+        ],
+        [
+          433,
+          136
+        ]
+      ]
+    },
+    "000000160499_GT": {
+      "name": "000000160499_GT",
+      "original_image_path": "000000160499_GT.png",
+      "mask_path": "000000160499_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a couple of small airplanes parked on top of an airport tarmac",
+      "words": [
+        "airplanes"
+      ],
+      "selected_points": [
+        [
+          1,
+          199
+        ],
+        [
+          0,
+          257
+        ]
+      ]
+    },
+    "000000163705_GT": {
+      "name": "000000163705_GT",
+      "original_image_path": "000000163705_GT.png",
+      "mask_path": "000000163705_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a couple of buses driving down a rain soaked street",
+      "words": [
+        "buses"
+      ],
+      "selected_points": [
+        [
+          328,
+          356
+        ],
+        [
+          343,
+          366
+        ]
+      ]
+    },
+    "000000177075_GT": {
+      "name": "000000177075_GT",
+      "original_image_path": "000000177075_GT.png",
+      "mask_path": "000000177075_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a large boat traveling down a river next to a bridge",
+      "words": [
+        "boat"
+      ],
+      "selected_points": [
+        [
+          337,
+          357
+        ],
+        [
+          456,
+          357
+        ]
+      ]
+    },
+    "000000180209_GT": {
+      "name": "000000180209_GT",
+      "original_image_path": "000000180209_GT.png",
+      "mask_path": "000000180209_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a yellow boat traveling down a river next to tall buildings",
+      "words": [
+        "boat"
+      ],
+      "selected_points": [
+        [
+          205,
+          296
+        ],
+        [
+          101,
+          296
+        ]
+      ]
+    },
+    "000000218841_GT": {
+      "name": "000000218841_GT",
+      "original_image_path": "000000218841_GT.png",
+      "mask_path": "000000218841_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "two girls playing a video game in a living room",
+      "words": [
+        "girls"
+      ],
+      "selected_points": [
+        [
+          142,
+          510
+        ],
+        [
+          48,
+          510
+        ]
+      ]
+    },
+    "000000270333_GT": {
+      "name": "000000270333_GT",
+      "original_image_path": "000000270333_GT.png",
+      "mask_path": "000000270333_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a red stop sign sitting on the side of a road",
+      "words": [
+        "stop",
+        "sign"
+      ],
+      "selected_points": [
+        [
+          162,
+          213
+        ],
+        [
+          59,
+          212
+        ]
+      ]
+    },
+    "000000278141_GT": {
+      "name": "000000278141_GT",
+      "original_image_path": "000000278141_GT.png",
+      "mask_path": "000000278141_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a couple of black cows standing on top of a lush green field",
+      "words": [
+        "cows"
+      ],
+      "selected_points": [
+        [
+          221,
+          209
+        ],
+        [
+          273,
+          209
+        ]
+      ]
+    },
+    "000000309203_GT": {
+      "name": "000000309203_GT",
+      "original_image_path": "000000309203_GT.png",
+      "mask_path": "000000309203_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a hamburger sitting on top of a wooden cutting board next to a glass of wine",
+      "words": [
+        "hamburger"
+      ],
+      "selected_points": [
+        [
+          334,
+          354
+        ],
+        [
+          437,
+          353
+        ]
+      ]
+    },
+    "000000313222_GT": {
+      "name": "000000313222_GT",
+      "original_image_path": "000000313222_GT.png",
+      "mask_path": "000000313222_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a display case filled with sandwiches and strawberries",
+      "words": [
+        "strawberries"
+      ],
+      "selected_points": [
+        [
+          177,
+          280
+        ],
+        [
+          98,
+          280
+        ]
+      ]
+    },
+    "000000314389_GT": {
+      "name": "000000314389_GT",
+      "original_image_path": "000000314389_GT.png",
+      "mask_path": "000000314389_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a pillow and two twin beds in a hotel room next to a window",
+      "words": [
+        "pillow"
+      ],
+      "selected_points": [
+        [
+          270,
+          293
+        ],
+        [
+          170,
+          354
+        ]
+      ]
+    },
+    "000000321519_GT": {
+      "name": "000000321519_GT",
+      "original_image_path": "000000321519_GT.png",
+      "mask_path": "000000321519_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a half eaten apple sitting next to a cell phone",
+      "words": [
+        "half",
+        "eaten",
+        "apple"
+      ],
+      "selected_points": [
+        [
+          296,
+          311
+        ],
+        [
+          311,
+          382
+        ]
+      ]
+    },
+    "000000327431_GT": {
+      "name": "000000327431_GT",
+      "original_image_path": "000000327431_GT.png",
+      "mask_path": "000000327431_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a cup of coffee next to a pair of scissors and a cell phone",
+      "words": [
+        "cell",
+        "phone"
+      ],
+      "selected_points": [
+        [
+          90,
+          321
+        ],
+        [
+          17,
+          321
+        ]
+      ]
+    },
+    "000000329101_GT": {
+      "name": "000000329101_GT",
+      "original_image_path": "000000329101_GT.png",
+      "mask_path": "000000329101_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a cell phone sitting next to a can of soda",
+      "words": [
+        "cell",
+        "phone"
+      ],
+      "selected_points": [
+        [
+          308,
+          196
+        ],
+        [
+          315,
+          109
+        ]
+      ]
+    },
+    "000000337109_GT": {
+      "name": "000000337109_GT",
+      "original_image_path": "000000337109_GT.png",
+      "mask_path": "000000337109_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a large clock on the side of a building",
+      "words": [
+        "clock"
+      ],
+      "selected_points": [
+        [
+          145,
+          250
+        ],
+        [
+          144,
+          447
+        ]
+      ]
+    },
+    "000000340179_GT": {
+      "name": "000000340179_GT",
+      "original_image_path": "000000340179_GT.png",
+      "mask_path": "000000340179_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a clock in a train station with a lot of windows",
+      "words": [
+        "clock"
+      ],
+      "selected_points": [
+        [
+          391,
+          491
+        ],
+        [
+          29,
+          501
+        ]
+      ]
+    },
+    "000000345637_GT": {
+      "name": "000000345637_GT",
+      "original_image_path": "000000345637_GT.png",
+      "mask_path": "000000345637_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a red car driving down a street next to a truck",
+      "words": [
+        "red",
+        "car"
+      ],
+      "selected_points": [
+        [
+          173,
+          388
+        ],
+        [
+          125,
+          388
+        ]
+      ]
+    },
+    "000000372757_GT": {
+      "name": "000000372757_GT",
+      "original_image_path": "000000372757_GT.png",
+      "mask_path": "000000372757_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a kitchen with a refrigerator and a chair",
+      "words": [
+        "refrigerator"
+      ],
+      "selected_points": [
+        [
+          199,
+          129
+        ],
+        [
+          142,
+          129
+        ]
+      ]
+    },
+    "000000417250_GT": {
+      "name": "000000417250_GT",
+      "original_image_path": "000000417250_GT.png",
+      "mask_path": "000000417250_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a blue fire hydrant sitting in the middle of a field",
+      "words": [
+        "blue",
+        "fire",
+        "hydrant"
+      ],
+      "selected_points": [
+        [
+          340,
+          174
+        ],
+        [
+          205,
+          179
+        ]
+      ]
+    },
+    "000000418059_GT": {
+      "name": "000000418059_GT",
+      "original_image_path": "000000418059_GT.png",
+      "mask_path": "000000418059_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a fire hydrant on the side of the road",
+      "words": [
+        "fire",
+        "hydrant"
+      ],
+      "selected_points": [
+        [
+          331,
+          192
+        ],
+        [
+          49,
+          192
+        ]
+      ]
+    },
+    "000000434274_GT": {
+      "name": "000000434274_GT",
+      "original_image_path": "000000434274_GT.png",
+      "mask_path": "000000434274_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a couple of baseball players standing on top of a field",
+      "words": [
+        "baseball",
+        "players"
+      ],
+      "selected_points": [
+        [
+          344,
+          418
+        ],
+        [
+          290,
+          418
+        ]
+      ]
+    },
+    "000000466416_GT": {
+      "name": "000000466416_GT",
+      "original_image_path": "000000466416_GT.png",
+      "mask_path": "000000466416_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a green cup and a group of people sitting around a wooden table",
+      "words": [
+        "green",
+        "cup"
+      ],
+      "selected_points": [
+        [
+          465,
+          450
+        ],
+        [
+          409,
+          450
+        ]
+      ]
+    },
+    "000000483992_GT": {
+      "name": "000000483992_GT",
+      "original_image_path": "000000483992_GT.png",
+      "mask_path": "000000483992_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a man riding skis down a snow covered slope",
+      "words": [
+        "man"
+      ],
+      "selected_points": [
+        [
+          351,
+          227
+        ],
+        [
+          101,
+          227
+        ]
+      ]
+    },
+    "000000485981_GT": {
+      "name": "000000485981_GT",
+      "original_image_path": "000000485981_GT.png",
+      "mask_path": "000000485981_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a couple of men playing a game of soccer",
+      "words": [
+        "soccer"
+      ],
+      "selected_points": [
+        [
+          175,
+          458
+        ],
+        [
+          40,
+          452
+        ]
+      ]
+    },
+    "000000505029_GT": {
+      "name": "000000505029_GT",
+      "original_image_path": "000000505029_GT.png",
+      "mask_path": "000000505029_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a baseball player standing on top of a field",
+      "words": [
+        "player"
+      ],
+      "selected_points": [
+        [
+          299,
+          503
+        ],
+        [
+          261,
+          504
+        ]
+      ]
+    },
+    "000000577281_GT": {
+      "name": "000000577281_GT",
+      "original_image_path": "000000577281_GT.png",
+      "mask_path": "000000577281_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a park bench sitting on the side of a road and a blue car",
+      "words": [
+        "blue",
+        "car"
+      ],
+      "selected_points": [
+        [
+          379,
+          42
+        ],
+        [
+          479,
+          41
+        ]
+      ]
+    },
+    "000000578408_GT": {
+      "name": "000000578408_GT",
+      "original_image_path": "000000578408_GT.png",
+      "mask_path": "000000578408_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a truck is parked next to a wooden bench with a wheel on it",
+      "words": [
+        "wheel"
+      ],
+      "selected_points": [
+        [
+          215,
+          308
+        ],
+        [
+          139,
+          321
+        ]
+      ]
+    },
+    "000000586565_GT": {
+      "name": "000000586565_GT",
+      "original_image_path": "000000586565_GT.png",
+      "mask_path": "000000586565_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a large brown bear walking through a forest",
+      "words": [
+        "bear"
+      ],
+      "selected_points": [
+        [
+          235,
+          379
+        ],
+        [
+          24,
+          379
+        ]
+      ]
+    },
+    "000000587181_GT": {
+      "name": "000000587181_GT",
+      "original_image_path": "000000587181_GT.png",
+      "mask_path": "000000587181_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a couple of brown bears walking across a dirt field",
+      "words": [
+        "bears"
+      ],
+      "selected_points": [
+        [
+          305,
+          247
+        ],
+        [
+          93,
+          247
+        ]
+      ]
+    },
+    "000000590317_GT": {
+      "name": "000000590317_GT",
+      "original_image_path": "000000590317_GT.png",
+      "mask_path": "000000590317_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a zebra grazing in a field with elephants in the background",
+      "words": [
+        "zebra"
+      ],
+      "selected_points": [
+        [
+          196,
+          456
+        ],
+        [
+          125,
+          369
+        ]
+      ]
+    },
+    "000000591261_GT": {
+      "name": "000000591261_GT",
+      "original_image_path": "000000591261_GT.png",
+      "mask_path": "000000591261_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "two zebras grazing on grass in a zoo enclosure",
+      "words": [
+        "zebras"
+      ],
+      "selected_points": [
+        [
+          180,
+          359
+        ],
+        [
+          180,
+          411
+        ]
+      ]
+    },
+    "000000592307_GT": {
+      "name": "000000592307_GT",
+      "original_image_path": "000000592307_GT.png",
+      "mask_path": "000000592307_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "two zebras are grazing in a grassy field",
+      "words": [
+        "zebras"
+      ],
+      "selected_points": [
+        [
+          319,
+          341
+        ],
+        [
+          270,
+          340
+        ]
+      ]
+    },
+    "000000595445_GT": {
+      "name": "000000595445_GT",
+      "original_image_path": "000000595445_GT.png",
+      "mask_path": "000000595445_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a couple of giraffe standing on top of a lush green field",
+      "words": [
+        "giraffe"
+      ],
+      "selected_points": [
+        [
+          58,
+          503
+        ],
+        [
+          20,
+          503
+        ]
+      ]
+    },
+    "000000598471_GT": {
+      "name": "000000598471_GT",
+      "original_image_path": "000000598471_GT.png",
+      "mask_path": "000000598471_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "two giraffes walking in a grassy area next to trees",
+      "words": [
+        "giraffes"
+      ],
+      "selected_points": [
+        [
+          407,
+          322
+        ],
+        [
+          479,
+          320
+        ]
+      ]
+    },
+    "000000603124_GT": {
+      "name": "000000603124_GT",
+      "original_image_path": "000000603124_GT.png",
+      "mask_path": "000000603124_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a black and white dog laying in the grass with a frisbee",
+      "words": [
+        "dog"
+      ],
+      "selected_points": [
+        [
+          289,
+          439
+        ],
+        [
+          335,
+          439
+        ]
+      ]
+    },
+    "000000603860_GT": {
+      "name": "000000603860_GT",
+      "original_image_path": "000000603860_GT.png",
+      "mask_path": "000000603860_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a blue frisbee sitting on top of a lush green field",
+      "words": [
+        "frisbee"
+      ],
+      "selected_points": [
+        [
+          251,
+          433
+        ],
+        [
+          87,
+          298
+        ]
+      ]
+    },
+    "000000621847_GT": {
+      "name": "000000621847_GT",
+      "original_image_path": "000000621847_GT.png",
+      "mask_path": "000000621847_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a young boy in a striped shirt is flying a kite",
+      "words": [
+        "kite"
+      ],
+      "selected_points": [
+        [
+          135,
+          83
+        ],
+        [
+          369,
+          32
+        ]
+      ]
+    },
+    "000000668966_GT": {
+      "name": "000000668966_GT",
+      "original_image_path": "000000668966_GT.png",
+      "mask_path": "000000668966_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a cell phone sitting on top of a table next to a cup",
+      "words": [
+        "cell",
+        "phone"
+      ],
+      "selected_points": [
+        [
+          305,
+          411
+        ],
+        [
+          369,
+          434
+        ]
+      ]
+    },
+    "000000679377_GT": {
+      "name": "000000679377_GT",
+      "original_image_path": "000000679377_GT.png",
+      "mask_path": "000000679377_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a blue cup and two young boys sitting at a table eating pizza",
+      "words": [
+        "blue",
+        "cup"
+      ],
+      "selected_points": [
+        [
+          402,
+          301
+        ],
+        [
+          367,
+          298
+        ]
+      ]
+    },
+    "000000711935_GT": {
+      "name": "000000711935_GT",
+      "original_image_path": "000000711935_GT.png",
+      "mask_path": "000000711935_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a pepper mill a blender and some ingredients on a table",
+      "words": [
+        "pepper",
+        "mill"
+      ],
+      "selected_points": [
+        [
+          369,
+          103
+        ],
+        [
+          120,
+          112
+        ]
+      ]
+    },
+    "000000716545_GT": {
+      "name": "000000716545_GT",
+      "original_image_path": "000000716545_GT.png",
+      "mask_path": "000000716545_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a red plate topped with sushi next to a bottle of wine",
+      "words": [
+        "sushi"
+      ],
+      "selected_points": [
+        [
+          311,
+          184
+        ],
+        [
+          276,
+          183
+        ]
+      ]
+    },
+    "000001053129_GT": {
+      "name": "000001053129_GT",
+      "original_image_path": "000001053129_GT.png",
+      "mask_path": "000001053129_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a group of apples and oranges on a white surface",
+      "words": [
+        "oranges"
+      ],
+      "selected_points": [
+        [
+          218,
+          401
+        ],
+        [
+          218,
+          472
+        ]
+      ]
+    },
+    "000001072281_GT": {
+      "name": "000001072281_GT",
+      "original_image_path": "000001072281_GT.png",
+      "mask_path": "000001072281_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a ketchup bottle and a black plate with a slice of pizza on it",
+      "words": [
+        "ketchup",
+        "bottle"
+      ],
+      "selected_points": [
+        [
+          27,
+          244
+        ],
+        [
+          0,
+          296
+        ]
+      ]
+    },
+    "000001088701_GT": {
+      "name": "000001088701_GT",
+      "original_image_path": "000001088701_GT.png",
+      "mask_path": "000001088701_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a table topped with lots of different types of cakes",
+      "words": [
+        "cakes"
+      ],
+      "selected_points": [
+        [
+          280,
+          434
+        ],
+        [
+          363,
+          372
+        ]
+      ]
+    },
+    "000001089951_GT": {
+      "name": "000001089951_GT",
+      "original_image_path": "000001089951_GT.png",
+      "mask_path": "000001089951_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a knife and a three tiered cake sitting on top of a table",
+      "words": [
+        "knife"
+      ],
+      "selected_points": [
+        [
+          279,
+          465
+        ],
+        [
+          316,
+          472
+        ]
+      ]
+    },
+    "000001099023_GT": {
+      "name": "000001099023_GT",
+      "original_image_path": "000001099023_GT.png",
+      "mask_path": "000001099023_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a desktop computer sitting on top of a wooden desk with a cup",
+      "words": [
+        "cup"
+      ],
+      "selected_points": [
+        [
+          116,
+          418
+        ],
+        [
+          225,
+          462
+        ]
+      ]
+    },
+    "000001100507_GT": {
+      "name": "000001100507_GT",
+      "original_image_path": "000001100507_GT.png",
+      "mask_path": "000001100507_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a laptop computer sitting on top of a white table",
+      "words": [
+        "laptop",
+        "computer"
+      ],
+      "selected_points": [
+        [
+          334,
+          408
+        ],
+        [
+          356,
+          430
+        ]
+      ]
+    },
+    "000001109059_GT": {
+      "name": "000001109059_GT",
+      "original_image_path": "000001109059_GT.png",
+      "mask_path": "000001109059_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a lens and a cell phone sitting on top of a book",
+      "words": [
+        "lens"
+      ],
+      "selected_points": [
+        [
+          184,
+          58
+        ],
+        [
+          16,
+          57
+        ]
+      ]
+    },
+    "000001109287_GT": {
+      "name": "000001109287_GT",
+      "original_image_path": "000001109287_GT.png",
+      "mask_path": "000001109287_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "three remote controls sitting on top of a mattress",
+      "words": [
+        "remote",
+        "controls"
+      ],
+      "selected_points": [
+        [
+          239,
+          142
+        ],
+        [
+          110,
+          142
+        ]
+      ]
+    },
+    "000001114763_GT": {
+      "name": "000001114763_GT",
+      "original_image_path": "000001114763_GT.png",
+      "mask_path": "000001114763_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a keyboard and a computer monitor sitting on top of a wooden desk",
+      "words": [
+        "keyboard"
+      ],
+      "selected_points": [
+        [
+          218,
+          426
+        ],
+        [
+          93,
+          375
+        ]
+      ]
+    },
+    "000001129949_GT": {
+      "name": "000001129949_GT",
+      "original_image_path": "000001129949_GT.png",
+      "mask_path": "000001129949_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a bathroom sink with a soap dispenser on top of it",
+      "words": [
+        "soap",
+        "dispenser"
+      ],
+      "selected_points": [
+        [
+          303,
+          206
+        ],
+        [
+          193,
+          202
+        ]
+      ]
+    },
+    "000001162677_GT": {
+      "name": "000001162677_GT",
+      "original_image_path": "000001162677_GT.png",
+      "mask_path": "000001162677_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a brown teddy bear sitting on top of a wooden chair",
+      "words": [
+        "teddy",
+        "bear"
+      ],
+      "selected_points": [
+        [
+          210,
+          447
+        ],
+        [
+          90,
+          446
+        ]
+      ]
+    },
+    "000001170627_GT": {
+      "name": "000001170627_GT",
+      "original_image_path": "000001170627_GT.png",
+      "mask_path": "000001170627_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a woman standing next to a pile of luggage",
+      "words": [
+        "woman"
+      ],
+      "selected_points": [
+        [
+          449,
+          167
+        ],
+        [
+          482,
+          167
+        ]
+      ]
+    },
+    "000001183559_GT": {
+      "name": "000001183559_GT",
+      "original_image_path": "000001183559_GT.png",
+      "mask_path": "000001183559_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a black and white photo of luggage on the floor",
+      "words": [
+        "luggage"
+      ],
+      "selected_points": [
+        [
+          325,
+          340
+        ],
+        [
+          471,
+          394
+        ]
+      ]
+    },
+    "000001183605_GT": {
+      "name": "000001183605_GT",
+      "original_image_path": "000001183605_GT.png",
+      "mask_path": "000001183605_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a man standing on top of a briefcase on the ground",
+      "words": [
+        "briefcase"
+      ],
+      "selected_points": [
+        [
+          232,
+          346
+        ],
+        [
+          175,
+          346
+        ]
+      ]
+    },
+    "000001317826_GT": {
+      "name": "000001317826_GT",
+      "original_image_path": "000001317826_GT.png",
+      "mask_path": "000001317826_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a group of young people playing a game of soccer",
+      "words": [
+        "people"
+      ],
+      "selected_points": [
+        [
+          322,
+          251
+        ],
+        [
+          382,
+          251
+        ]
+      ]
+    },
+    "000001414195_GT": {
+      "name": "000001414195_GT",
+      "original_image_path": "000001414195_GT.png",
+      "mask_path": "000001414195_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a giraffe walking around in an enclosure at a zoo",
+      "words": [
+        "giraffe"
+      ],
+      "selected_points": [
+        [
+          146,
+          142
+        ],
+        [
+          43,
+          142
+        ]
+      ]
+    },
+    "000001504862_GT": {
+      "name": "000001504862_GT",
+      "original_image_path": "000001504862_GT.png",
+      "mask_path": "000001504862_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a cup and a plate with a sandwich on it next to a camera",
+      "words": [
+        "cup"
+      ],
+      "selected_points": [
+        [
+          106,
+          186
+        ],
+        [
+          138,
+          132
+        ]
+      ]
+    },
+    "000001554302_GT": {
+      "name": "000001554302_GT",
+      "original_image_path": "000001554302_GT.png",
+      "mask_path": "000001554302_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a tray with a sandwich, macaroni and cheese and a drink",
+      "words": [
+        "drink"
+      ],
+      "selected_points": [
+        [
+          223,
+          208
+        ],
+        [
+          479,
+          196
+        ]
+      ]
+    },
+    "000001554739_GT": {
+      "name": "000001554739_GT",
+      "original_image_path": "000001554739_GT.png",
+      "mask_path": "000001554739_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a tray with a sandwich, macaroni and cheese and a drink",
+      "words": [
+        "drink"
+      ],
+      "selected_points": [
+        [
+          270,
+          29
+        ],
+        [
+          242,
+          29
+        ]
+      ]
+    },
+    "000001557820_GT": {
+      "name": "000001557820_GT",
+      "original_image_path": "000001557820_GT.png",
+      "mask_path": "000001557820_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "an orange cut in half on a wooden table",
+      "words": [
+        "orange"
+      ],
+      "selected_points": [
+        [
+          103,
+          312
+        ],
+        [
+          136,
+          474
+        ]
+      ]
+    },
+    "000001559502_GT": {
+      "name": "000001559502_GT",
+      "original_image_path": "000001559502_GT.png",
+      "mask_path": "000001559502_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a glass bowl filled with oranges on top of a table",
+      "words": [
+        "oranges"
+      ],
+      "selected_points": [
+        [
+          369,
+          325
+        ],
+        [
+          263,
+          238
+        ]
+      ]
+    },
+    "000001673320_GT": {
+      "name": "000001673320_GT",
+      "original_image_path": "000001673320_GT.png",
+      "mask_path": "000001673320_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "two stuffed animals sitting on a wooden bench",
+      "words": [
+        "stuffed",
+        "animals"
+      ],
+      "selected_points": [
+        [
+          430,
+          289
+        ],
+        [
+          460,
+          336
+        ]
+      ]
+    },
+    "000001738109_GT": {
+      "name": "000001738109_GT",
+      "original_image_path": "000001738109_GT.png",
+      "mask_path": "000001738109_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a statue of a man sitting on a bench",
+      "words": [
+        "statue",
+        "man"
+      ],
+      "selected_points": [
+        [
+          319,
+          229
+        ],
+        [
+          405,
+          228
+        ]
+      ]
+    },
+    "000001816267_GT": {
+      "name": "000001816267_GT",
+      "original_image_path": "000001816267_GT.png",
+      "mask_path": "000001816267_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a cat is sitting in front of a television",
+      "words": [
+        "cat"
+      ],
+      "selected_points": [
+        [
+          219,
+          318
+        ],
+        [
+          274,
+          318
+        ]
+      ]
+    },
+    "000001825570_GT": {
+      "name": "000001825570_GT",
+      "original_image_path": "000001825570_GT.png",
+      "mask_path": "000001825570_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a man standing next to a woman on top of a snow covered ground",
+      "words": [
+        "man"
+      ],
+      "selected_points": [
+        [
+          203,
+          381
+        ],
+        [
+          239,
+          381
+        ]
+      ]
+    },
+    "000001837105_GT": {
+      "name": "000001837105_GT",
+      "original_image_path": "000001837105_GT.png",
+      "mask_path": "000001837105_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a towel and a group of surfboards sitting on top of a sandy beach",
+      "words": [
+        "towel"
+      ],
+      "selected_points": [
+        [
+          258,
+          357
+        ],
+        [
+          258,
+          458
+        ]
+      ]
+    },
+    "000001855595_GT": {
+      "name": "000001855595_GT",
+      "original_image_path": "000001855595_GT.png",
+      "mask_path": "000001855595_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a person is flying a large kite on the beach",
+      "words": [
+        "large",
+        "kite"
+      ],
+      "selected_points": [
+        [
+          203,
+          154
+        ],
+        [
+          202,
+          216
+        ]
+      ]
+    },
+    "000001901251_GT": {
+      "name": "000001901251_GT",
+      "original_image_path": "000001901251_GT.png",
+      "mask_path": "000001901251_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a can of spam next to a plate of food",
+      "words": [
+        "can",
+        "spam"
+      ],
+      "selected_points": [
+        [
+          97,
+          333
+        ],
+        [
+          4,
+          333
+        ]
+      ]
+    },
+    "000001917065_GT": {
+      "name": "000001917065_GT",
+      "original_image_path": "000001917065_GT.png",
+      "mask_path": "000001917065_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a pot of soup with a wooden spoon in it",
+      "words": [
+        "wooden",
+        "spoon"
+      ],
+      "selected_points": [
+        [
+          505,
+          312
+        ],
+        [
+          505,
+          381
+        ]
+      ]
+    },
+    "000001976081_GT": {
+      "name": "000001976081_GT",
+      "original_image_path": "000001976081_GT.png",
+      "mask_path": "000001976081_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a camera and a couple of cell phones sitting on top of a table",
+      "words": [
+        "camera"
+      ],
+      "selected_points": [
+        [
+          319,
+          363
+        ],
+        [
+          322,
+          504
+        ]
+      ]
+    },
+    "000002204643_GT": {
+      "name": "000002204643_GT",
+      "original_image_path": "000002204643_GT.png",
+      "mask_path": "000002204643_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a man and a young boy holding a baseball bat during a game",
+      "words": [
+        "man"
+      ],
+      "selected_points": [
+        [
+          450,
+          254
+        ],
+        [
+          414,
+          256
+        ]
+      ]
+    },
+    "000002204771_GT": {
+      "name": "000002204771_GT",
+      "original_image_path": "000002204771_GT.png",
+      "mask_path": "000002204771_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "two young boys playing soccer on a soccer field",
+      "words": [
+        "soccer"
+      ],
+      "selected_points": [
+        [
+          341,
+          382
+        ],
+        [
+          340,
+          301
+        ]
+      ]
+    },
+    "000002217400_GT": {
+      "name": "000002217400_GT",
+      "original_image_path": "000002217400_GT.png",
+      "mask_path": "000002217400_GT_mask.png",
+      "max_resolution": 512,
+      "prompt": "a white plate topped with a piece of cake next to a glass of orange juice",
+      "words": [
+        "cake"
+      ],
+      "selected_points": [
+        [
+          337,
+          442
+        ],
+        [
+          334,
+          397
+        ]
+      ]
+    }
+  }

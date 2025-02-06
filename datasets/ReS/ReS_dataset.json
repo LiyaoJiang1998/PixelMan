@@ -1,0 +1,3345 @@
+{
+    "p1_2": {
+        "name": "p1_2",
+        "original_image_path": "p1_2.jpg",
+        "mask_path": "p1_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a black office chair sitting in front of a desk",
+        "words": [
+            "chair"
+        ],
+        "selected_points": [
+            [
+                507,
+                268
+            ],
+            [
+                430,
+                266
+            ]
+        ]
+    },
+    "p2_1": {
+        "name": "p2_1",
+        "original_image_path": "p2_1.jpg",
+        "mask_path": "p2_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a laptop and a monitor on it",
+        "words": [
+            "laptop"
+        ],
+        "selected_points": [
+            [
+                524,
+                217
+            ],
+            [
+                335,
+                439
+            ]
+        ]
+    },
+    "p2_2": {
+        "name": "p2_2",
+        "original_image_path": "p2_2.jpg",
+        "mask_path": "p2_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a chair and a laptop on it",
+        "words": [
+            "laptop"
+        ],
+        "selected_points": [
+            [
+                335,
+                439
+            ],
+            [
+                524,
+                217
+            ]
+        ]
+    },
+    "p3_1": {
+        "name": "p3_1",
+        "original_image_path": "p3_1.jpg",
+        "mask_path": "p3_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bag sitting on the floor in an office",
+        "words": [
+            "bag"
+        ],
+        "selected_points": [
+            [
+                436,
+                359
+            ],
+            [
+                489,
+                346
+            ]
+        ]
+    },
+    "p3_2": {
+        "name": "p3_2",
+        "original_image_path": "p3_2.jpg",
+        "mask_path": "p3_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bag sitting on the floor in an office",
+        "words": [
+            "bag"
+        ],
+        "selected_points": [
+            [
+                489,
+                346
+            ],
+            [
+                436,
+                359
+            ]
+        ]
+    },
+    "p4_1": {
+        "name": "p4_1",
+        "original_image_path": "p4_1.jpg",
+        "mask_path": "p4_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a wooden desk with a box on it beside a tissue dispenser",
+        "words": [
+            "box"
+        ],
+        "selected_points": [
+            [
+                493,
+                51
+            ],
+            [
+                465,
+                364
+            ]
+        ]
+    },
+    "p4_2": {
+        "name": "p4_2",
+        "original_image_path": "p4_2.jpg",
+        "mask_path": "p4_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a wooden desk with a box on it beside a tissue dispenser",
+        "words": [
+            "box"
+        ],
+        "selected_points": [
+            [
+                465,
+                364
+            ],
+            [
+                493,
+                51
+            ]
+        ]
+    },
+    "p5_2": {
+        "name": "p5_2",
+        "original_image_path": "p5_2.jpg",
+        "mask_path": "p5_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "computer monitor sitting on top of a wooden desk beside a small bag",
+        "words": [
+            "bag"
+        ],
+        "selected_points": [
+            [
+                290,
+                296
+            ],
+            [
+                236,
+                256
+            ]
+        ]
+    },
+    "p6_1": {
+        "name": "p6_1",
+        "original_image_path": "p6_1.jpg",
+        "mask_path": "p6_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bag sitting on the floor next to a chair",
+        "words": [
+            "bag"
+        ],
+        "selected_points": [
+            [
+                323,
+                368
+            ],
+            [
+                553,
+                375
+            ]
+        ]
+    },
+    "p6_2": {
+        "name": "p6_2",
+        "original_image_path": "p6_2.jpg",
+        "mask_path": "p6_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bag sitting on the floor next to a chair",
+        "words": [
+            "bag"
+        ],
+        "selected_points": [
+            [
+                553,
+                375
+            ],
+            [
+                323,
+                368
+            ]
+        ]
+    },
+    "p7_1": {
+        "name": "p7_1",
+        "original_image_path": "p7_1.jpg",
+        "mask_path": "p7_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a cardboard box sitting on the floor next to a refrigerator",
+        "words": [
+            "cardboard",
+            "box"
+        ],
+        "selected_points": [
+            [
+                394,
+                379
+            ],
+            [
+                283,
+                422
+            ]
+        ]
+    },
+    "p7_2": {
+        "name": "p7_2",
+        "original_image_path": "p7_2.jpg",
+        "mask_path": "p7_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a cardboard box sitting on the floor in an office",
+        "words": [
+            "cardboard",
+            "box"
+        ],
+        "selected_points": [
+            [
+                283,
+                422
+            ],
+            [
+                394,
+                379
+            ]
+        ]
+    },
+    "p8_1": {
+        "name": "p8_1",
+        "original_image_path": "p8_1.jpg",
+        "mask_path": "p8_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a wooden desk with a plastic box on it beside a tissue dispenser",
+        "words": [
+            "plastic",
+            "box"
+        ],
+        "selected_points": [
+            [
+                425,
+                42
+            ],
+            [
+                306,
+                460
+            ]
+        ]
+    },
+    "p8_2": {
+        "name": "p8_2",
+        "original_image_path": "p8_2.jpg",
+        "mask_path": "p8_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a wooden desk with a plastic box on it beside a tissue dispenser",
+        "words": [
+            "plastic",
+            "box"
+        ],
+        "selected_points": [
+            [
+                306,
+                460
+            ],
+            [
+                425,
+                42
+            ]
+        ]
+    },
+    "p9_1": {
+        "name": "p9_1",
+        "original_image_path": "p9_1.jpg",
+        "mask_path": "p9_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table topped with a glass and a bottle of water",
+        "words": [
+            "glass"
+        ],
+        "selected_points": [
+            [
+                144,
+                233
+            ],
+            [
+                303,
+                338
+            ]
+        ]
+    },
+    "p9_2": {
+        "name": "p9_2",
+        "original_image_path": "p9_2.jpg",
+        "mask_path": "p9_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a glass of water sitting on top of a tray",
+        "words": [
+            "glass"
+        ],
+        "selected_points": [
+            [
+                303,
+                338
+            ],
+            [
+                144,
+                233
+            ]
+        ]
+    },
+    "p10_2": {
+        "name": "p10_2",
+        "original_image_path": "p10_2.jpg",
+        "mask_path": "p10_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a tissue box sitting on top of a desk",
+        "words": [
+            "tissue",
+            "box"
+        ],
+        "selected_points": [
+            [
+                398,
+                331
+            ],
+            [
+                233,
+                289
+            ]
+        ]
+    },
+    "p11_1": {
+        "name": "p11_1",
+        "original_image_path": "p11_1.jpg",
+        "mask_path": "p11_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a computer monitor, keyboard and a neck pillow",
+        "words": [
+            "neck",
+            "pillow"
+        ],
+        "selected_points": [
+            [
+                110,
+                167
+            ],
+            [
+                340,
+                164
+            ]
+        ]
+    },
+    "p11_2": {
+        "name": "p11_2",
+        "original_image_path": "p11_2.jpg",
+        "mask_path": "p11_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a computer monitor, keyboard and a neck pillow",
+        "words": [
+            "neck",
+            "pillow"
+        ],
+        "selected_points": [
+            [
+                340,
+                164
+            ],
+            [
+                110,
+                167
+            ]
+        ]
+    },
+    "p12_2": {
+        "name": "p12_2",
+        "original_image_path": "p12_2.jpg",
+        "mask_path": "p12_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a tube of toothpaste sitting on top of a desk",
+        "words": [
+            "tube",
+            "toothpaste"
+        ],
+        "selected_points": [
+            [
+                321,
+                308
+            ],
+            [
+                496,
+                260
+            ]
+        ]
+    },
+    "p13_1": {
+        "name": "p13_1",
+        "original_image_path": "p13_1.jpg",
+        "mask_path": "p13_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a computer monitor and a neck pillow",
+        "words": [
+            "neck",
+            "pillow"
+        ],
+        "selected_points": [
+            [
+                363,
+                110
+            ],
+            [
+                488,
+                202
+            ]
+        ]
+    },
+    "p13_2": {
+        "name": "p13_2",
+        "original_image_path": "p13_2.jpg",
+        "mask_path": "p13_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a computer monitor and a neck pillow",
+        "words": [
+            "neck",
+            "pillow"
+        ],
+        "selected_points": [
+            [
+                488,
+                202
+            ],
+            [
+                363,
+                110
+            ]
+        ]
+    },
+    "p14_1": {
+        "name": "p14_1",
+        "original_image_path": "p14_1.jpg",
+        "mask_path": "p14_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a computer keyboard sitting on top of a wooden desk and a box",
+        "words": [
+            "box"
+        ],
+        "selected_points": [
+            [
+                551,
+                292
+            ],
+            [
+                280,
+                283
+            ]
+        ]
+    },
+    "p14_2": {
+        "name": "p14_2",
+        "original_image_path": "p14_2.jpg",
+        "mask_path": "p14_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a computer keyboard sitting on top of a wooden desk and a box",
+        "words": [
+            "box"
+        ],
+        "selected_points": [
+            [
+                280,
+                283
+            ],
+            [
+                551,
+                292
+            ]
+        ]
+    },
+    "p15_1": {
+        "name": "p15_1",
+        "original_image_path": "p15_1.jpg",
+        "mask_path": "p15_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a computer keyboard sitting on top of a wooden desk and a box",
+        "words": [
+            "box"
+        ],
+        "selected_points": [
+            [
+                203,
+                231
+            ],
+            [
+                494,
+                202
+            ]
+        ]
+    },
+    "p15_2": {
+        "name": "p15_2",
+        "original_image_path": "p15_2.jpg",
+        "mask_path": "p15_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a computer keyboard sitting on top of a wooden desk and a box",
+        "words": [
+            "box"
+        ],
+        "selected_points": [
+            [
+                494,
+                202
+            ],
+            [
+                203,
+                231
+            ]
+        ]
+    },
+    "p16_1": {
+        "name": "p16_1",
+        "original_image_path": "p16_1.jpg",
+        "mask_path": "p16_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a black box under a wooden desk beside a tissue dispenser",
+        "words": [
+            "black",
+            "box"
+        ],
+        "selected_points": [
+            [
+                465,
+                364
+            ],
+            [
+                239,
+                453
+            ]
+        ]
+    },
+    "p16_2": {
+        "name": "p16_2",
+        "original_image_path": "p16_2.jpg",
+        "mask_path": "p16_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a black box under a wooden desk beside a tissue dispenser",
+        "words": [
+            "black",
+            "box"
+        ],
+        "selected_points": [
+            [
+                239,
+                453
+            ],
+            [
+                465,
+                364
+            ]
+        ]
+    },
+    "p17_1": {
+        "name": "p17_1",
+        "original_image_path": "p17_1.jpg",
+        "mask_path": "p17_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a large water bottle beside a water dispenser",
+        "words": [
+            "large",
+            "water",
+            "bottle"
+        ],
+        "selected_points": [
+            [
+                427,
+                331
+            ],
+            [
+                260,
+                359
+            ]
+        ]
+    },
+    "p17_2": {
+        "name": "p17_2",
+        "original_image_path": "p17_2.jpg",
+        "mask_path": "p17_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a large water bottle beside a water dispenser",
+        "words": [
+            "large",
+            "water",
+            "bottle"
+        ],
+        "selected_points": [
+            [
+                260,
+                359
+            ],
+            [
+                427,
+                331
+            ]
+        ]
+    },
+    "p18_1": {
+        "name": "p18_1",
+        "original_image_path": "p18_1.jpg",
+        "mask_path": "p18_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bottle of water sitting on top of a desk next to a printer",
+        "words": [
+            "bottle",
+            "water"
+        ],
+        "selected_points": [
+            [
+                359,
+                301
+            ],
+            [
+                332,
+                384
+            ]
+        ]
+    },
+    "p18_2": {
+        "name": "p18_2",
+        "original_image_path": "p18_2.jpg",
+        "mask_path": "p18_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bottle of water sitting on a desk next to a printer",
+        "words": [
+            "bottle",
+            "water"
+        ],
+        "selected_points": [
+            [
+                332,
+                384
+            ],
+            [
+                359,
+                301
+            ]
+        ]
+    },
+    "p19_1": {
+        "name": "p19_1",
+        "original_image_path": "p19_1.jpg",
+        "mask_path": "p19_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a printer and a green box on it",
+        "words": [
+            "green",
+            "box"
+        ],
+        "selected_points": [
+            [
+                402,
+                300
+            ],
+            [
+                193,
+                345
+            ]
+        ]
+    },
+    "p19_2": {
+        "name": "p19_2",
+        "original_image_path": "p19_2.jpg",
+        "mask_path": "p19_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a printer and a green box on it",
+        "words": [
+            "green",
+            "box"
+        ],
+        "selected_points": [
+            [
+                193,
+                345
+            ],
+            [
+                402,
+                300
+            ]
+        ]
+    },
+    "p20_2": {
+        "name": "p20_2",
+        "original_image_path": "p20_2.jpg",
+        "mask_path": "p20_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bunch of electronics and a tissue box on a table",
+        "words": [
+            "tissue",
+            "box"
+        ],
+        "selected_points": [
+            [
+                470,
+                358
+            ],
+            [
+                214,
+                298
+            ]
+        ]
+    },
+    "p21_2": {
+        "name": "p21_2",
+        "original_image_path": "p21_2.jpg",
+        "mask_path": "p21_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a black couch and a green mop in a room",
+        "words": [
+            "green",
+            "mop"
+        ],
+        "selected_points": [
+            [
+                545,
+                367
+            ],
+            [
+                265,
+                341
+            ]
+        ]
+    },
+    "p22_2": {
+        "name": "p22_2",
+        "original_image_path": "p22_2.jpg",
+        "mask_path": "p22_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bottle sitting on top of a counter",
+        "words": [
+            "bottle"
+        ],
+        "selected_points": [
+            [
+                529,
+                329
+            ],
+            [
+                364,
+                319
+            ]
+        ]
+    },
+    "p23_1": {
+        "name": "p23_1",
+        "original_image_path": "p23_1.jpg",
+        "mask_path": "p23_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a room filled with boxes and a blue box",
+        "words": [
+            "blue",
+            "box"
+        ],
+        "selected_points": [
+            [
+                386,
+                241
+            ],
+            [
+                197,
+                378
+            ]
+        ]
+    },
+    "p23_2": {
+        "name": "p23_2",
+        "original_image_path": "p23_2.jpg",
+        "mask_path": "p23_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a room filled with boxes and a blue box",
+        "words": [
+            "blue",
+            "box"
+        ],
+        "selected_points": [
+            [
+                197,
+                378
+            ],
+            [
+                386,
+                241
+            ]
+        ]
+    },
+    "p24_1": {
+        "name": "p24_1",
+        "original_image_path": "p24_1.jpg",
+        "mask_path": "p24_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a room filled with boxes and a blue box",
+        "words": [
+            "blue",
+            "box"
+        ],
+        "selected_points": [
+            [
+                197,
+                378
+            ],
+            [
+                463,
+                420
+            ]
+        ]
+    },
+    "p24_2": {
+        "name": "p24_2",
+        "original_image_path": "p24_2.jpg",
+        "mask_path": "p24_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a room filled with boxes and a blue box",
+        "words": [
+            "blue",
+            "box"
+        ],
+        "selected_points": [
+            [
+                463,
+                420
+            ],
+            [
+                197,
+                378
+            ]
+        ]
+    },
+    "p25_1": {
+        "name": "p25_1",
+        "original_image_path": "p25_1.jpg",
+        "mask_path": "p25_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a cluttered desk with a bottle of beer and other items",
+        "words": [
+            "bottle",
+            "beer"
+        ],
+        "selected_points": [
+            [
+                256,
+                304
+            ],
+            [
+                470,
+                213
+            ]
+        ]
+    },
+    "p25_2": {
+        "name": "p25_2",
+        "original_image_path": "p25_2.jpg",
+        "mask_path": "p25_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a cluttered desk with a bottle of beer and other items",
+        "words": [
+            "bottle",
+            "beer"
+        ],
+        "selected_points": [
+            [
+                470,
+                213
+            ],
+            [
+                256,
+                304
+            ]
+        ]
+    },
+    "p26_1": {
+        "name": "p26_1",
+        "original_image_path": "p26_1.jpg",
+        "mask_path": "p26_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a cluttered desk with a bottle of beer and other items",
+        "words": [
+            "bottle",
+            "beer"
+        ],
+        "selected_points": [
+            [
+                469,
+                217
+            ],
+            [
+                333,
+                370
+            ]
+        ]
+    },
+    "p26_2": {
+        "name": "p26_2",
+        "original_image_path": "p26_2.jpg",
+        "mask_path": "p26_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a cluttered desk with a bottle of beer and other items",
+        "words": [
+            "bottle",
+            "beer"
+        ],
+        "selected_points": [
+            [
+                333,
+                370
+            ],
+            [
+                469,
+                217
+            ]
+        ]
+    },
+    "p27_1": {
+        "name": "p27_1",
+        "original_image_path": "p27_1.jpg",
+        "mask_path": "p27_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a pink and blue coffee mug sitting next to an apple",
+        "words": [
+            "apple"
+        ],
+        "selected_points": [
+            [
+                230,
+                250
+            ],
+            [
+                294,
+                412
+            ]
+        ]
+    },
+    "p27_2": {
+        "name": "p27_2",
+        "original_image_path": "p27_2.jpg",
+        "mask_path": "p27_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a pink coffee mug sitting next to a pink apple",
+        "words": [
+            "apple"
+        ],
+        "selected_points": [
+            [
+                294,
+                412
+            ],
+            [
+                230,
+                250
+            ]
+        ]
+    },
+    "p28_1": {
+        "name": "p28_1",
+        "original_image_path": "p28_1.jpg",
+        "mask_path": "p28_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a white trash can sitting on top of a wooden table",
+        "words": [
+            "trash",
+            "can"
+        ],
+        "selected_points": [
+            [
+                517,
+                255
+            ],
+            [
+                231,
+                334
+            ]
+        ]
+    },
+    "p28_2": {
+        "name": "p28_2",
+        "original_image_path": "p28_2.jpg",
+        "mask_path": "p28_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a white trash can sitting on top of a wooden table",
+        "words": [
+            "trash",
+            "can"
+        ],
+        "selected_points": [
+            [
+                231,
+                334
+            ],
+            [
+                517,
+                255
+            ]
+        ]
+    },
+    "p29_2": {
+        "name": "p29_2",
+        "original_image_path": "p29_2.jpg",
+        "mask_path": "p29_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a computer keyboard sitting on top of a desk",
+        "words": [
+            "keyboard"
+        ],
+        "selected_points": [
+            [
+                369,
+                218
+            ],
+            [
+                183,
+                267
+            ]
+        ]
+    },
+    "p30_2": {
+        "name": "p30_2",
+        "original_image_path": "p30_2.jpg",
+        "mask_path": "p30_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a computer monitor and a yellow cup sitting on top of a wooden desk",
+        "words": [
+            "yellow",
+            "cup"
+        ],
+        "selected_points": [
+            [
+                365,
+                449
+            ],
+            [
+                534,
+                260
+            ]
+        ]
+    },
+    "p31_1": {
+        "name": "p31_1",
+        "original_image_path": "p31_1.jpg",
+        "mask_path": "p31_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a black box sitting on top of a window sill",
+        "words": [
+            "black",
+            "box"
+        ],
+        "selected_points": [
+            [
+                139,
+                290
+            ],
+            [
+                458,
+                323
+            ]
+        ]
+    },
+    "p31_2": {
+        "name": "p31_2",
+        "original_image_path": "p31_2.jpg",
+        "mask_path": "p31_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a black box sitting on top of a counter next to a window",
+        "words": [
+            "black",
+            "box"
+        ],
+        "selected_points": [
+            [
+                458,
+                323
+            ],
+            [
+                139,
+                290
+            ]
+        ]
+    },
+    "p32_1": {
+        "name": "p32_1",
+        "original_image_path": "p32_1.jpg",
+        "mask_path": "p32_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a monitor sitting on top of a table next to a book",
+        "words": [
+            "book"
+        ],
+        "selected_points": [
+            [
+                276,
+                415
+            ],
+            [
+                162,
+                404
+            ]
+        ]
+    },
+    "p32_2": {
+        "name": "p32_2",
+        "original_image_path": "p32_2.jpg",
+        "mask_path": "p32_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a monitor sitting on top of a table next to a book",
+        "words": [
+            "book"
+        ],
+        "selected_points": [
+            [
+                162,
+                404
+            ],
+            [
+                276,
+                415
+            ]
+        ]
+    },
+    "p33_1": {
+        "name": "p33_1",
+        "original_image_path": "p33_1.jpg",
+        "mask_path": "p33_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a photo studio with a black backdrop and a chair",
+        "words": [
+            "chair"
+        ],
+        "selected_points": [
+            [
+                216,
+                199
+            ],
+            [
+                381,
+                204
+            ]
+        ]
+    },
+    "p33_2": {
+        "name": "p33_2",
+        "original_image_path": "p33_2.jpg",
+        "mask_path": "p33_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a photo studio with a black chair and a black backdrop",
+        "words": [
+            "chair"
+        ],
+        "selected_points": [
+            [
+                381,
+                204
+            ],
+            [
+                216,
+                199
+            ]
+        ]
+    },
+    "p34_2": {
+        "name": "p34_2",
+        "original_image_path": "p34_2.jpg",
+        "mask_path": "p34_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a pile of boxes and a blue box sitting on top of a hard wood floor",
+        "words": [
+            "blue",
+            "box"
+        ],
+        "selected_points": [
+            [
+                204,
+                413
+            ],
+            [
+                253,
+                230
+            ]
+        ]
+    },
+    "p35_1": {
+        "name": "p35_1",
+        "original_image_path": "p35_1.jpg",
+        "mask_path": "p35_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a photo studio with a black chair and a black backdrop",
+        "words": [
+            "chair"
+        ],
+        "selected_points": [
+            [
+                382,
+                203
+            ],
+            [
+                257,
+                200
+            ]
+        ]
+    },
+    "p35_2": {
+        "name": "p35_2",
+        "original_image_path": "p35_2.jpg",
+        "mask_path": "p35_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a black office chair sitting on top of a hard wood floor",
+        "words": [
+            "chair"
+        ],
+        "selected_points": [
+            [
+                257,
+                200
+            ],
+            [
+                382,
+                203
+            ]
+        ]
+    },
+    "p36_1": {
+        "name": "p36_1",
+        "original_image_path": "p36_1.jpg",
+        "mask_path": "p36_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a gold box and a lot of items on it",
+        "words": [
+            "gold",
+            "box"
+        ],
+        "selected_points": [
+            [
+                167,
+                319
+            ],
+            [
+                305,
+                388
+            ]
+        ]
+    },
+    "p36_2": {
+        "name": "p36_2",
+        "original_image_path": "p36_2.jpg",
+        "mask_path": "p36_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a gold box and a lot of items on it",
+        "words": [
+            "gold",
+            "box"
+        ],
+        "selected_points": [
+            [
+                305,
+                388
+            ],
+            [
+                167,
+                319
+            ]
+        ]
+    },
+    "p37_1": {
+        "name": "p37_1",
+        "original_image_path": "p37_1.jpg",
+        "mask_path": "p37_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a chair and a tea pot",
+        "words": [
+            "tea",
+            "pot"
+        ],
+        "selected_points": [
+            [
+                449,
+                205
+            ],
+            [
+                355,
+                210
+            ]
+        ]
+    },
+    "p37_2": {
+        "name": "p37_2",
+        "original_image_path": "p37_2.jpg",
+        "mask_path": "p37_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a chair and a tea pot",
+        "words": [
+            "tea",
+            "pot"
+        ],
+        "selected_points": [
+            [
+                355,
+                210
+            ],
+            [
+                449,
+                205
+            ]
+        ]
+    },
+    "p38_1": {
+        "name": "p38_1",
+        "original_image_path": "p38_1.jpg",
+        "mask_path": "p38_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a room filled with a white kettle",
+        "words": [
+            "white",
+            "kettle"
+        ],
+        "selected_points": [
+            [
+                566,
+                225
+            ],
+            [
+                358,
+                206
+            ]
+        ]
+    },
+    "p38_2": {
+        "name": "p38_2",
+        "original_image_path": "p38_2.jpg",
+        "mask_path": "p38_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a room filled with a white kettle",
+        "words": [
+            "white",
+            "kettle"
+        ],
+        "selected_points": [
+            [
+                358,
+                206
+            ],
+            [
+                566,
+                225
+            ]
+        ]
+    },
+    "p39_1": {
+        "name": "p39_1",
+        "original_image_path": "p39_1.jpg",
+        "mask_path": "p39_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table with a chainsaw, a bottle of wine and a pair of scissors",
+        "words": [
+            "chainsaw"
+        ],
+        "selected_points": [
+            [
+                329,
+                373
+            ],
+            [
+                508,
+                356
+            ]
+        ]
+    },
+    "p39_2": {
+        "name": "p39_2",
+        "original_image_path": "p39_2.jpg",
+        "mask_path": "p39_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table with a chainsaw, a bottle of wine and a pair of scissors",
+        "words": [
+            "chainsaw"
+        ],
+        "selected_points": [
+            [
+                508,
+                356
+            ],
+            [
+                329,
+                373
+            ]
+        ]
+    },
+    "p40_1": {
+        "name": "p40_1",
+        "original_image_path": "p40_1.jpg",
+        "mask_path": "p40_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table topped with a electronic device next to a bottle of wine",
+        "words": [
+            "electronic",
+            "device"
+        ],
+        "selected_points": [
+            [
+                133,
+                428
+            ],
+            [
+                531,
+                416
+            ]
+        ]
+    },
+    "p40_2": {
+        "name": "p40_2",
+        "original_image_path": "p40_2.jpg",
+        "mask_path": "p40_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table with a bunch of electronic devices on it",
+        "words": [
+            "electronic",
+            "devices"
+        ],
+        "selected_points": [
+            [
+                531,
+                416
+            ],
+            [
+                133,
+                428
+            ]
+        ]
+    },
+    "p41_2": {
+        "name": "p41_2",
+        "original_image_path": "p41_2.jpg",
+        "mask_path": "p41_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table topped with a pot next to a yellow bag",
+        "words": [
+            "pot"
+        ],
+        "selected_points": [
+            [
+                159,
+                292
+            ],
+            [
+                176,
+                236
+            ]
+        ]
+    },
+    "p42_2": {
+        "name": "p42_2",
+        "original_image_path": "p42_2.jpg",
+        "mask_path": "p42_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a coffee cup sitting on top of a counter",
+        "words": [
+            "coffee",
+            "cup"
+        ],
+        "selected_points": [
+            [
+                529,
+                202
+            ],
+            [
+                254,
+                179
+            ]
+        ]
+    },
+    "p43_1": {
+        "name": "p43_1",
+        "original_image_path": "p43_1.jpg",
+        "mask_path": "p43_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a frame on top of a printer",
+        "words": [
+            "frame"
+        ],
+        "selected_points": [
+            [
+                140,
+                233
+            ],
+            [
+                380,
+                398
+            ]
+        ]
+    },
+    "p43_2": {
+        "name": "p43_2",
+        "original_image_path": "p43_2.jpg",
+        "mask_path": "p43_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a frame, computer and a printer on a stand",
+        "words": [
+            "frame"
+        ],
+        "selected_points": [
+            [
+                380,
+                398
+            ],
+            [
+                140,
+                233
+            ]
+        ]
+    },
+    "p44_2": {
+        "name": "p44_2",
+        "original_image_path": "p44_2.jpg",
+        "mask_path": "p44_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a chair, scissor and a bag on it",
+        "words": [
+            "scissor"
+        ],
+        "selected_points": [
+            [
+                374,
+                298
+            ],
+            [
+                444,
+                465
+            ]
+        ]
+    },
+    "p45_1": {
+        "name": "p45_1",
+        "original_image_path": "p45_1.jpg",
+        "mask_path": "p45_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a room filled with lots of computer equipment and a chair",
+        "words": [
+            "chair"
+        ],
+        "selected_points": [
+            [
+                241,
+                192
+            ],
+            [
+                108,
+                261
+            ]
+        ]
+    },
+    "p45_2": {
+        "name": "p45_2",
+        "original_image_path": "p45_2.jpg",
+        "mask_path": "p45_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a chair sitting on top of a hard wood floor",
+        "words": [
+            "chair"
+        ],
+        "selected_points": [
+            [
+                108,
+                261
+            ],
+            [
+                241,
+                192
+            ]
+        ]
+    },
+    "p46_2": {
+        "name": "p46_2",
+        "original_image_path": "p46_2.jpg",
+        "mask_path": "p46_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table with a bunch of items on it and a box",
+        "words": [
+            "box"
+        ],
+        "selected_points": [
+            [
+                455,
+                258
+            ],
+            [
+                270,
+                200
+            ]
+        ]
+    },
+    "p47_2": {
+        "name": "p47_2",
+        "original_image_path": "p47_2.jpg",
+        "mask_path": "p47_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table topped with tools and a hammer",
+        "words": [
+            "hammer"
+        ],
+        "selected_points": [
+            [
+                99,
+                336
+            ],
+            [
+                558,
+                319
+            ]
+        ]
+    },
+    "p48_1": {
+        "name": "p48_1",
+        "original_image_path": "p48_1.jpg",
+        "mask_path": "p48_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a tool sitting on top of a wooden table",
+        "words": [
+            "tool"
+        ],
+        "selected_points": [
+            [
+                651,
+                385
+            ],
+            [
+                492,
+                372
+            ]
+        ]
+    },
+    "p48_2": {
+        "name": "p48_2",
+        "original_image_path": "p48_2.jpg",
+        "mask_path": "p48_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a pitcher sitting on top of a table next to a pair of scissors",
+        "words": [
+            "pitcher"
+        ],
+        "selected_points": [
+            [
+                492,
+                372
+            ],
+            [
+                651,
+                385
+            ]
+        ]
+    },
+    "p49_1": {
+        "name": "p49_1",
+        "original_image_path": "p49_1.jpg",
+        "mask_path": "p49_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table topped with a black tool and lots of different items",
+        "words": [
+            "black",
+            "tool"
+        ],
+        "selected_points": [
+            [
+                154,
+                340
+            ],
+            [
+                204,
+                364
+            ]
+        ]
+    },
+    "p49_2": {
+        "name": "p49_2",
+        "original_image_path": "p49_2.jpg",
+        "mask_path": "p49_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table topped with a black tool and lots of different items",
+        "words": [
+            "black",
+            "tool"
+        ],
+        "selected_points": [
+            [
+                204,
+                364
+            ],
+            [
+                154,
+                340
+            ]
+        ]
+    },
+    "p50_2": {
+        "name": "p50_2",
+        "original_image_path": "p50_2.jpg",
+        "mask_path": "p50_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a white kettle sitting on top of a wooden table",
+        "words": [
+            "white",
+            "kettle"
+        ],
+        "selected_points": [
+            [
+                351,
+                325
+            ],
+            [
+                568,
+                273
+            ]
+        ]
+    },
+    "p51_2": {
+        "name": "p51_2",
+        "original_image_path": "p51_2.jpg",
+        "mask_path": "p51_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a white coffee mug sitting on a table in an office",
+        "words": [
+            "white",
+            "coffee",
+            "mug"
+        ],
+        "selected_points": [
+            [
+                523,
+                372
+            ],
+            [
+                366,
+                442
+            ]
+        ]
+    },
+    "p52_2": {
+        "name": "p52_2",
+        "original_image_path": "p52_2.jpg",
+        "mask_path": "p52_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a monitor, keyboard, mouse and a black box",
+        "words": [
+            "black",
+            "box"
+        ],
+        "selected_points": [
+            [
+                569,
+                336
+            ],
+            [
+                388,
+                314
+            ]
+        ]
+    },
+    "p53_1": {
+        "name": "p53_1",
+        "original_image_path": "p53_1.jpg",
+        "mask_path": "p53_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a monitor, keyboard, mouse and a black box",
+        "words": [
+            "black",
+            "box"
+        ],
+        "selected_points": [
+            [
+                461,
+                355
+            ],
+            [
+                324,
+                310
+            ]
+        ]
+    },
+    "p53_2": {
+        "name": "p53_2",
+        "original_image_path": "p53_2.jpg",
+        "mask_path": "p53_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a monitor, keyboard, mouse and a black box",
+        "words": [
+            "black",
+            "box"
+        ],
+        "selected_points": [
+            [
+                324,
+                310
+            ],
+            [
+                461,
+                355
+            ]
+        ]
+    },
+    "p54_1": {
+        "name": "p54_1",
+        "original_image_path": "p54_1.jpg",
+        "mask_path": "p54_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a yellow caution sign sitting on top of a marble floor",
+        "words": [
+            "yellow",
+            "caution",
+            "sign"
+        ],
+        "selected_points": [
+            [
+                311,
+                186
+            ],
+            [
+                421,
+                186
+            ]
+        ]
+    },
+    "p54_2": {
+        "name": "p54_2",
+        "original_image_path": "p54_2.jpg",
+        "mask_path": "p54_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a yellow caution sign sitting on top of a marble floor",
+        "words": [
+            "yellow",
+            "caution",
+            "sign"
+        ],
+        "selected_points": [
+            [
+                421,
+                186
+            ],
+            [
+                311,
+                186
+            ]
+        ]
+    },
+    "p55_1": {
+        "name": "p55_1",
+        "original_image_path": "p55_1.jpg",
+        "mask_path": "p55_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a yellow caution sign sitting on the side of a building",
+        "words": [
+            "yellow",
+            "caution",
+            "sign"
+        ],
+        "selected_points": [
+            [
+                422,
+                114
+            ],
+            [
+                272,
+                109
+            ]
+        ]
+    },
+    "p55_2": {
+        "name": "p55_2",
+        "original_image_path": "p55_2.jpg",
+        "mask_path": "p55_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a yellow caution sign sitting on the side of a building",
+        "words": [
+            "yellow",
+            "caution",
+            "sign"
+        ],
+        "selected_points": [
+            [
+                272,
+                109
+            ],
+            [
+                422,
+                114
+            ]
+        ]
+    },
+    "p56_1": {
+        "name": "p56_1",
+        "original_image_path": "p56_1.jpg",
+        "mask_path": "p56_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a yellow caution sign sitting on the side of a building",
+        "words": [
+            "yellow",
+            "caution",
+            "sign"
+        ],
+        "selected_points": [
+            [
+                272,
+                110
+            ],
+            [
+                182,
+                142
+            ]
+        ]
+    },
+    "p56_2": {
+        "name": "p56_2",
+        "original_image_path": "p56_2.jpg",
+        "mask_path": "p56_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a yellow caution sign sitting on the side of a road",
+        "words": [
+            "yellow",
+            "caution",
+            "sign"
+        ],
+        "selected_points": [
+            [
+                182,
+                142
+            ],
+            [
+                272,
+                110
+            ]
+        ]
+    },
+    "p57_1": {
+        "name": "p57_1",
+        "original_image_path": "p57_1.jpg",
+        "mask_path": "p57_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a yellow caution sign sitting on the side of a road",
+        "words": [
+            "yellow",
+            "caution",
+            "sign"
+        ],
+        "selected_points": [
+            [
+                182,
+                140
+            ],
+            [
+                467,
+                149
+            ]
+        ]
+    },
+    "p57_2": {
+        "name": "p57_2",
+        "original_image_path": "p57_2.jpg",
+        "mask_path": "p57_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a yellow caution sign sitting on the side of a road",
+        "words": [
+            "yellow",
+            "caution",
+            "sign"
+        ],
+        "selected_points": [
+            [
+                467,
+                149
+            ],
+            [
+                182,
+                140
+            ]
+        ]
+    },
+    "p58_2": {
+        "name": "p58_2",
+        "original_image_path": "p58_2.jpg",
+        "mask_path": "p58_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a stone in the middle of a grassy field",
+        "words": [
+            "stone"
+        ],
+        "selected_points": [
+            [
+                442,
+                429
+            ],
+            [
+                330,
+                287
+            ]
+        ]
+    },
+    "p59_1": {
+        "name": "p59_1",
+        "original_image_path": "p59_1.jpg",
+        "mask_path": "p59_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a stone in the middle of a grassy field",
+        "words": [
+            "stone"
+        ],
+        "selected_points": [
+            [
+                194,
+                367
+            ],
+            [
+                495,
+                413
+            ]
+        ]
+    },
+    "p59_2": {
+        "name": "p59_2",
+        "original_image_path": "p59_2.jpg",
+        "mask_path": "p59_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a stone in the middle of a grassy field",
+        "words": [
+            "stone"
+        ],
+        "selected_points": [
+            [
+                495,
+                413
+            ],
+            [
+                194,
+                367
+            ]
+        ]
+    },
+    "p60_2": {
+        "name": "p60_2",
+        "original_image_path": "p60_2.jpg",
+        "mask_path": "p60_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bike parked next to each other on a sidewalk",
+        "words": [
+            "bike"
+        ],
+        "selected_points": [
+            [
+                476,
+                264
+            ],
+            [
+                308,
+                197
+            ]
+        ]
+    },
+    "p61_1": {
+        "name": "p61_1",
+        "original_image_path": "p61_1.jpg",
+        "mask_path": "p61_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bike parked next to each other on a sidewalk",
+        "words": [
+            "bike"
+        ],
+        "selected_points": [
+            [
+                476,
+                264
+            ],
+            [
+                194,
+                248
+            ]
+        ]
+    },
+    "p61_2": {
+        "name": "p61_2",
+        "original_image_path": "p61_2.jpg",
+        "mask_path": "p61_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bike parked next to each other on a sidewalk",
+        "words": [
+            "bike"
+        ],
+        "selected_points": [
+            [
+                194,
+                248
+            ],
+            [
+                476,
+                264
+            ]
+        ]
+    },
+    "p62_1": {
+        "name": "p62_1",
+        "original_image_path": "p62_1.jpg",
+        "mask_path": "p62_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bike parked next to each other on a sidewalk",
+        "words": [
+            "bike"
+        ],
+        "selected_points": [
+            [
+                194,
+                248
+            ],
+            [
+                513,
+                241
+            ]
+        ]
+    },
+    "p62_2": {
+        "name": "p62_2",
+        "original_image_path": "p62_2.jpg",
+        "mask_path": "p62_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bike parked next to each other on a sidewalk",
+        "words": [
+            "bike"
+        ],
+        "selected_points": [
+            [
+                513,
+                241
+            ],
+            [
+                194,
+                248
+            ]
+        ]
+    },
+    "p63_1": {
+        "name": "p63_1",
+        "original_image_path": "p63_1.jpg",
+        "mask_path": "p63_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a yellow caution sign sitting on top of a marble floor",
+        "words": [
+            "yellow",
+            "caution",
+            "sign"
+        ],
+        "selected_points": [
+            [
+                421,
+                185
+            ],
+            [
+                137,
+                225
+            ]
+        ]
+    },
+    "p63_2": {
+        "name": "p63_2",
+        "original_image_path": "p63_2.jpg",
+        "mask_path": "p63_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a yellow caution sign sitting on top of a marble floor",
+        "words": [
+            "yellow",
+            "caution",
+            "sign"
+        ],
+        "selected_points": [
+            [
+                137,
+                225
+            ],
+            [
+                421,
+                185
+            ]
+        ]
+    },
+    "p64_2": {
+        "name": "p64_2",
+        "original_image_path": "p64_2.jpg",
+        "mask_path": "p64_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a couple of chairs sitting on top of a tiled floor",
+        "words": [
+            "chairs"
+        ],
+        "selected_points": [
+            [
+                391,
+                127
+            ],
+            [
+                335,
+                112
+            ]
+        ]
+    },
+    "p65_1": {
+        "name": "p65_1",
+        "original_image_path": "p65_1.jpg",
+        "mask_path": "p65_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a couple of signs in front of a window",
+        "words": [
+            "signs"
+        ],
+        "selected_points": [
+            [
+                302,
+                252
+            ],
+            [
+                213,
+                244
+            ]
+        ]
+    },
+    "p65_2": {
+        "name": "p65_2",
+        "original_image_path": "p65_2.jpg",
+        "mask_path": "p65_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a couple of signs in front of a window",
+        "words": [
+            "signs"
+        ],
+        "selected_points": [
+            [
+                213,
+                244
+            ],
+            [
+                302,
+                252
+            ]
+        ]
+    },
+    "p66_2": {
+        "name": "p66_2",
+        "original_image_path": "p66_2.jpg",
+        "mask_path": "p66_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a display and chairs in a room",
+        "words": [
+            "display"
+        ],
+        "selected_points": [
+            [
+                91,
+                297
+            ],
+            [
+                557,
+                241
+            ]
+        ]
+    },
+    "p67_1": {
+        "name": "p67_1",
+        "original_image_path": "p67_1.jpg",
+        "mask_path": "p67_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table and chairs in the middle of a park",
+        "words": [
+            "chairs"
+        ],
+        "selected_points": [
+            [
+                286,
+                271
+            ],
+            [
+                366,
+                270
+            ]
+        ]
+    },
+    "p67_2": {
+        "name": "p67_2",
+        "original_image_path": "p67_2.jpg",
+        "mask_path": "p67_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table and chairs in a park setting",
+        "words": [
+            "chairs"
+        ],
+        "selected_points": [
+            [
+                366,
+                270
+            ],
+            [
+                286,
+                271
+            ]
+        ]
+    },
+    "p68_1": {
+        "name": "p68_1",
+        "original_image_path": "p68_1.jpg",
+        "mask_path": "p68_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table and chairs sitting in the middle of a park",
+        "words": [
+            "chairs"
+        ],
+        "selected_points": [
+            [
+                366,
+                270
+            ],
+            [
+                166,
+                244
+            ]
+        ]
+    },
+    "p68_2": {
+        "name": "p68_2",
+        "original_image_path": "p68_2.jpg",
+        "mask_path": "p68_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a set of stone steps leading to a table and chairs",
+        "words": [
+            "chairs"
+        ],
+        "selected_points": [
+            [
+                166,
+                244
+            ],
+            [
+                366,
+                270
+            ]
+        ]
+    },
+    "p69_2": {
+        "name": "p69_2",
+        "original_image_path": "p69_2.jpg",
+        "mask_path": "p69_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a set of steps leading up to a bench in a park",
+        "words": [
+            "bench"
+        ],
+        "selected_points": [
+            [
+                352,
+                270
+            ],
+            [
+                351,
+                278
+            ]
+        ]
+    },
+    "p70_1": {
+        "name": "p70_1",
+        "original_image_path": "p70_1.jpg",
+        "mask_path": "p70_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table and an ashtray",
+        "words": [
+            "ashtray"
+        ],
+        "selected_points": [
+            [
+                305,
+                140
+            ],
+            [
+                525,
+                180
+            ]
+        ]
+    },
+    "p70_2": {
+        "name": "p70_2",
+        "original_image_path": "p70_2.jpg",
+        "mask_path": "p70_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table and an ashtray",
+        "words": [
+            "ashtray"
+        ],
+        "selected_points": [
+            [
+                525,
+                180
+            ],
+            [
+                305,
+                140
+            ]
+        ]
+    },
+    "p71_1": {
+        "name": "p71_1",
+        "original_image_path": "p71_1.jpg",
+        "mask_path": "p71_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table and an ashtray",
+        "words": [
+            "ashtray"
+        ],
+        "selected_points": [
+            [
+                323,
+                145
+            ],
+            [
+                104,
+                178
+            ]
+        ]
+    },
+    "p71_2": {
+        "name": "p71_2",
+        "original_image_path": "p71_2.jpg",
+        "mask_path": "p71_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table and an ashtray",
+        "words": [
+            "ashtray"
+        ],
+        "selected_points": [
+            [
+                104,
+                178
+            ],
+            [
+                323,
+                145
+            ]
+        ]
+    },
+    "p72_1": {
+        "name": "p72_1",
+        "original_image_path": "p72_1.jpg",
+        "mask_path": "p72_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a laptop computer and a metal object sitting on top of a wooden desk",
+        "words": [
+            "metal",
+            "object"
+        ],
+        "selected_points": [
+            [
+                329,
+                335
+            ],
+            [
+                350,
+                414
+            ]
+        ]
+    },
+    "p72_2": {
+        "name": "p72_2",
+        "original_image_path": "p72_2.jpg",
+        "mask_path": "p72_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a laptop computer and a metal object sitting on top of a wooden desk",
+        "words": [
+            "metal",
+            "object"
+        ],
+        "selected_points": [
+            [
+                350,
+                414
+            ],
+            [
+                329,
+                335
+            ]
+        ]
+    },
+    "p73_1": {
+        "name": "p73_1",
+        "original_image_path": "p73_1.jpg",
+        "mask_path": "p73_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a laptop computer and a metal object sitting on top of a wooden desk",
+        "words": [
+            "metal",
+            "object"
+        ],
+        "selected_points": [
+            [
+                204,
+                410
+            ],
+            [
+                371,
+                429
+            ]
+        ]
+    },
+    "p73_2": {
+        "name": "p73_2",
+        "original_image_path": "p73_2.jpg",
+        "mask_path": "p73_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a laptop computer and a metal object sitting on top of a wooden desk",
+        "words": [
+            "metal",
+            "object"
+        ],
+        "selected_points": [
+            [
+                371,
+                429
+            ],
+            [
+                204,
+                410
+            ]
+        ]
+    },
+    "p74_1": {
+        "name": "p74_1",
+        "original_image_path": "p74_1.jpg",
+        "mask_path": "p74_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a paper bunny on it",
+        "words": [
+            "paper",
+            "bunny"
+        ],
+        "selected_points": [
+            [
+                487,
+                357
+            ],
+            [
+                408,
+                412
+            ]
+        ]
+    },
+    "p74_2": {
+        "name": "p74_2",
+        "original_image_path": "p74_2.jpg",
+        "mask_path": "p74_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a paper bunny on it",
+        "words": [
+            "paper",
+            "bunny"
+        ],
+        "selected_points": [
+            [
+                408,
+                412
+            ],
+            [
+                487,
+                357
+            ]
+        ]
+    },
+    "p75_2": {
+        "name": "p75_2",
+        "original_image_path": "p75_2.jpg",
+        "mask_path": "p75_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a room with a coffee pot and a red bottle",
+        "words": [
+            "red",
+            "bottle"
+        ],
+        "selected_points": [
+            [
+                430,
+                430
+            ],
+            [
+                341,
+                427
+            ]
+        ]
+    },
+    "p76_1": {
+        "name": "p76_1",
+        "original_image_path": "p76_1.jpg",
+        "mask_path": "p76_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a room with a coffee pot and a red bottle",
+        "words": [
+            "red",
+            "bottle"
+        ],
+        "selected_points": [
+            [
+                430,
+                430
+            ],
+            [
+                547,
+                428
+            ]
+        ]
+    },
+    "p76_2": {
+        "name": "p76_2",
+        "original_image_path": "p76_2.jpg",
+        "mask_path": "p76_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a room with a coffee pot and a red bottle",
+        "words": [
+            "red",
+            "bottle"
+        ],
+        "selected_points": [
+            [
+                547,
+                428
+            ],
+            [
+                430,
+                430
+            ]
+        ]
+    },
+    "p77_1": {
+        "name": "p77_1",
+        "original_image_path": "p77_1.jpg",
+        "mask_path": "p77_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a shelf filled with lots of different types of beauty products and a tube",
+        "words": [
+            "tube"
+        ],
+        "selected_points": [
+            [
+                150,
+                280
+            ],
+            [
+                207,
+                287
+            ]
+        ]
+    },
+    "p77_2": {
+        "name": "p77_2",
+        "original_image_path": "p77_2.jpg",
+        "mask_path": "p77_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a shelf filled with lots of different types of beauty products and a tube",
+        "words": [
+            "tube"
+        ],
+        "selected_points": [
+            [
+                207,
+                287
+            ],
+            [
+                150,
+                280
+            ]
+        ]
+    },
+    "p78_1": {
+        "name": "p78_1",
+        "original_image_path": "p78_1.jpg",
+        "mask_path": "p78_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a shelf filled with lots of different types of beauty products and a tube",
+        "words": [
+            "tube"
+        ],
+        "selected_points": [
+            [
+                248,
+                289
+            ],
+            [
+                461,
+                292
+            ]
+        ]
+    },
+    "p78_2": {
+        "name": "p78_2",
+        "original_image_path": "p78_2.jpg",
+        "mask_path": "p78_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a shelf filled with lots of different types of beauty products and a tube",
+        "words": [
+            "tube"
+        ],
+        "selected_points": [
+            [
+                461,
+                292
+            ],
+            [
+                248,
+                289
+            ]
+        ]
+    },
+    "p79_2": {
+        "name": "p79_2",
+        "original_image_path": "p79_2.jpg",
+        "mask_path": "p79_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a shelf filled with lots of different types of beauty products and a tube",
+        "words": [
+            "tube"
+        ],
+        "selected_points": [
+            [
+                242,
+                276
+            ],
+            [
+                225,
+                274
+            ]
+        ]
+    },
+    "p80_1": {
+        "name": "p80_1",
+        "original_image_path": "p80_1.jpg",
+        "mask_path": "p80_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a wooden table topped with lots of different items and a doll",
+        "words": [
+            "doll"
+        ],
+        "selected_points": [
+            [
+                452,
+                310
+            ],
+            [
+                395,
+                328
+            ]
+        ]
+    },
+    "p80_2": {
+        "name": "p80_2",
+        "original_image_path": "p80_2.jpg",
+        "mask_path": "p80_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a wooden table topped with lots of different items and a doll",
+        "words": [
+            "doll"
+        ],
+        "selected_points": [
+            [
+                395,
+                328
+            ],
+            [
+                452,
+                310
+            ]
+        ]
+    },
+    "p81_2": {
+        "name": "p81_2",
+        "original_image_path": "p81_2.jpg",
+        "mask_path": "p81_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a shelf with a lot of different items on it and a jar",
+        "words": [
+            "jar"
+        ],
+        "selected_points": [
+            [
+                252,
+                171
+            ],
+            [
+                525,
+                195
+            ]
+        ]
+    },
+    "p82_2": {
+        "name": "p82_2",
+        "original_image_path": "p82_2.jpg",
+        "mask_path": "p82_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table topped with a container of water and a plate",
+        "words": [
+            "plate"
+        ],
+        "selected_points": [
+            [
+                292,
+                410
+            ],
+            [
+                344,
+                363
+            ]
+        ]
+    },
+    "p83_1": {
+        "name": "p83_1",
+        "original_image_path": "p83_1.jpg",
+        "mask_path": "p83_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bathroom sink with a lot of personal care products on it and a tube",
+        "words": [
+            "tube"
+        ],
+        "selected_points": [
+            [
+                423,
+                375
+            ],
+            [
+                570,
+                417
+            ]
+        ]
+    },
+    "p83_2": {
+        "name": "p83_2",
+        "original_image_path": "p83_2.jpg",
+        "mask_path": "p83_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bathroom sink with a lot of personal care products on it and a tube",
+        "words": [
+            "tube"
+        ],
+        "selected_points": [
+            [
+                570,
+                417
+            ],
+            [
+                423,
+                375
+            ]
+        ]
+    },
+    "p84_2": {
+        "name": "p84_2",
+        "original_image_path": "p84_2.jpg",
+        "mask_path": "p84_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bathroom sink with a lot of personal care products on it and a tube",
+        "words": [
+            "tube"
+        ],
+        "selected_points": [
+            [
+                264,
+                358
+            ],
+            [
+                400,
+                313
+            ]
+        ]
+    },
+    "p85_1": {
+        "name": "p85_1",
+        "original_image_path": "p85_1.jpg",
+        "mask_path": "p85_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a pink trash can sitting on a tiled floor",
+        "words": [
+            "pink",
+            "trash",
+            "can"
+        ],
+        "selected_points": [
+            [
+                239,
+                260
+            ],
+            [
+                473,
+                276
+            ]
+        ]
+    },
+    "p85_2": {
+        "name": "p85_2",
+        "original_image_path": "p85_2.jpg",
+        "mask_path": "p85_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a pink trash can sitting on a tiled floor",
+        "words": [
+            "pink",
+            "trash",
+            "can"
+        ],
+        "selected_points": [
+            [
+                473,
+                276
+            ],
+            [
+                239,
+                260
+            ]
+        ]
+    },
+    "p86_1": {
+        "name": "p86_1",
+        "original_image_path": "p86_1.jpg",
+        "mask_path": "p86_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a pink trash can sitting on a tiled floor",
+        "words": [
+            "pink",
+            "trash",
+            "can"
+        ],
+        "selected_points": [
+            [
+                473,
+                276
+            ],
+            [
+                229,
+                316
+            ]
+        ]
+    },
+    "p86_2": {
+        "name": "p86_2",
+        "original_image_path": "p86_2.jpg",
+        "mask_path": "p86_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a pink trash can sitting on a tiled floor",
+        "words": [
+            "pink",
+            "trash",
+            "can"
+        ],
+        "selected_points": [
+            [
+                229,
+                316
+            ],
+            [
+                473,
+                276
+            ]
+        ]
+    },
+    "p87_2": {
+        "name": "p87_2",
+        "original_image_path": "p87_2.jpg",
+        "mask_path": "p87_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a couple of nintendo wii controllers sitting on top of a desk",
+        "words": [
+            "nintendo",
+            "wii",
+            "controllers"
+        ],
+        "selected_points": [
+            [
+                325,
+                232
+            ],
+            [
+                315,
+                174
+            ]
+        ]
+    },
+    "p88_2": {
+        "name": "p88_2",
+        "original_image_path": "p88_2.jpg",
+        "mask_path": "p88_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a couple of nintendo wii controllers sitting on top of a desk",
+        "words": [
+            "nintendo",
+            "wii",
+            "controllers"
+        ],
+        "selected_points": [
+            [
+                512,
+                369
+            ],
+            [
+                530,
+                262
+            ]
+        ]
+    },
+    "p89_2": {
+        "name": "p89_2",
+        "original_image_path": "p89_2.jpg",
+        "mask_path": "p89_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a computer keyboard and a bottle sitting on top of a wooden desk",
+        "words": [
+            "bottle"
+        ],
+        "selected_points": [
+            [
+                565,
+                247
+            ],
+            [
+                176,
+                94
+            ]
+        ]
+    },
+    "p90_2": {
+        "name": "p90_2",
+        "original_image_path": "p90_2.jpg",
+        "mask_path": "p90_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a computer keyboard and a bottle sitting on top of a wooden desk",
+        "words": [
+            "bottle"
+        ],
+        "selected_points": [
+            [
+                126,
+                122
+            ],
+            [
+                245,
+                57
+            ]
+        ]
+    },
+    "p91_1": {
+        "name": "p91_1",
+        "original_image_path": "p91_1.jpg",
+        "mask_path": "p91_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a computer keyboard and a tissue box sitting on top of a wooden desk",
+        "words": [
+            "tissue",
+            "box"
+        ],
+        "selected_points": [
+            [
+                397,
+                82
+            ],
+            [
+                238,
+                293
+            ]
+        ]
+    },
+    "p91_2": {
+        "name": "p91_2",
+        "original_image_path": "p91_2.jpg",
+        "mask_path": "p91_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a computer keyboard and a tissue box sitting on top of a wooden desk",
+        "words": [
+            "tissue",
+            "box"
+        ],
+        "selected_points": [
+            [
+                238,
+                293
+            ],
+            [
+                397,
+                82
+            ]
+        ]
+    },
+    "p92_1": {
+        "name": "p92_1",
+        "original_image_path": "p92_1.jpg",
+        "mask_path": "p92_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a pile of boxes and a mop sitting next to a window",
+        "words": [
+            "mop"
+        ],
+        "selected_points": [
+            [
+                457,
+                382
+            ],
+            [
+                246,
+                363
+            ]
+        ]
+    },
+    "p92_2": {
+        "name": "p92_2",
+        "original_image_path": "p92_2.jpg",
+        "mask_path": "p92_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a pile of boxes and a mop sitting next to a window",
+        "words": [
+            "mop"
+        ],
+        "selected_points": [
+            [
+                246,
+                363
+            ],
+            [
+                457,
+                382
+            ]
+        ]
+    },
+    "p93_2": {
+        "name": "p93_2",
+        "original_image_path": "p93_2.jpg",
+        "mask_path": "p93_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a cluttered desk with a computer and a cutter on it",
+        "words": [
+            "cutter"
+        ],
+        "selected_points": [
+            [
+                306,
+                421
+            ],
+            [
+                210,
+                320
+            ]
+        ]
+    },
+    "p94_2": {
+        "name": "p94_2",
+        "original_image_path": "p94_2.jpg",
+        "mask_path": "p94_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table with a coffee cup, a charger, and other items on it",
+        "words": [
+            "cup"
+        ],
+        "selected_points": [
+            [
+                448,
+                220
+            ],
+            [
+                295,
+                97
+            ]
+        ]
+    },
+    "p95_2": {
+        "name": "p95_2",
+        "original_image_path": "p95_2.jpg",
+        "mask_path": "p95_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a table with a coffee cup, coffee mug, and other items on it",
+        "words": [
+            "cup"
+        ],
+        "selected_points": [
+            [
+                546,
+                338
+            ],
+            [
+                344,
+                168
+            ]
+        ]
+    },
+    "p96_2": {
+        "name": "p96_2",
+        "original_image_path": "p96_2.jpg",
+        "mask_path": "p96_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a bottle of water sitting on top of a wooden table",
+        "words": [
+            "bottle",
+            "water"
+        ],
+        "selected_points": [
+            [
+                316,
+                217
+            ],
+            [
+                220,
+                83
+            ]
+        ]
+    },
+    "p97_2": {
+        "name": "p97_2",
+        "original_image_path": "p97_2.jpg",
+        "mask_path": "p97_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a white adapter sitting on top of a wooden table",
+        "words": [
+            "white",
+            "adapter"
+        ],
+        "selected_points": [
+            [
+                240,
+                249
+            ],
+            [
+                106,
+                337
+            ]
+        ]
+    },
+    "p98_2": {
+        "name": "p98_2",
+        "original_image_path": "p98_2.jpg",
+        "mask_path": "p98_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a desk with a coffee cup, camera, and other items on it",
+        "words": [
+            "coffee",
+            "cup"
+        ],
+        "selected_points": [
+            [
+                230,
+                260
+            ],
+            [
+                395,
+                177
+            ]
+        ]
+    },
+    "p99_1": {
+        "name": "p99_1",
+        "original_image_path": "p99_1.jpg",
+        "mask_path": "p99_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a plant pot in fron of a window",
+        "words": [
+            "plant",
+            "pot"
+        ],
+        "selected_points": [
+            [
+                46,
+                245
+            ],
+            [
+                152,
+                260
+            ]
+        ]
+    },
+    "p99_2": {
+        "name": "p99_2",
+        "original_image_path": "p99_2.jpg",
+        "mask_path": "p99_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a plant pot in fron of a window",
+        "words": [
+            "plant",
+            "pot"
+        ],
+        "selected_points": [
+            [
+                152,
+                260
+            ],
+            [
+                46,
+                245
+            ]
+        ]
+    },
+    "p100_1": {
+        "name": "p100_1",
+        "original_image_path": "p100_1.jpg",
+        "mask_path": "p100_1_mask.png",
+        "max_resolution": 512,
+        "prompt": "a plant pot in fron of a window",
+        "words": [
+            "plant",
+            "pot"
+        ],
+        "selected_points": [
+            [
+                365,
+                268
+            ],
+            [
+                558,
+                331
+            ]
+        ]
+    },
+    "p100_2": {
+        "name": "p100_2",
+        "original_image_path": "p100_2.jpg",
+        "mask_path": "p100_2_mask.png",
+        "max_resolution": 512,
+        "prompt": "a plant pot in fron of a window",
+        "words": [
+            "plant",
+            "pot"
+        ],
+        "selected_points": [
+            [
+                558,
+                331
+            ],
+            [
+                365,
+                268
+            ]
+        ]
+    }
+}
