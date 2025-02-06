@@ -16,6 +16,8 @@ The official implementation for "PixelMan: Consistent Object Editing with Diffus
 > Liyao Jiang, Negar Hassanpour, Mohammad Salameh, Mohammadreza Samadi, Jiao He, Fengyu Sun, Di Niu\
 > AAAI-25
 
+<img src="https://liyaojiang1998.github.io/projects/PixelMan/static/images/teaser.png">
+<img src="https://liyaojiang1998.github.io/projects/PixelMan/static/images/qualitative_other_tasks.png">
 
 ## Description
 The official implementation for "PixelMan: Consistent Object Editing with Diffusion Models via Pixel Manipulation and Generation", accepted to AAAI-25.
